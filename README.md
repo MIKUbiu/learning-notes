@@ -4,7 +4,14 @@
 
 ## 目录
 
-### gptme 源码学习(Java 转 Python)
+### 面试
 
-- [gptme 阅读指南](gptme/GPTME_阅读指南.md) — 四步阅读路线:项目全景 → 工程骨架 → 核心链路 → issue 定向
-- [gptme 贡献分析](gptme/GPTME_贡献分析.md) — 7 维架构分析 + Top 3 PR 方向 + 两周行动清单
+- [面试问题](面试/面试问题.md)
+- [面试总结:日照银行](面试/面试总结/日照银行.md)
+
+### 项目笔记
+
+#### gptme 源码学习(Java 转 Python)
+
+- [gptme 阅读指南](项目笔记/gptme/GPTME_阅读指南.md) — 四步阅读路线:项目全景 → 工程骨架 → 核心链路 → issue 定向
+- [gptme 贡献分析](项目笔记/gptme/GPTME_贡献分析.md) — 7 维架构分析 + Top 3 PR 方向 + 两周行动清单
